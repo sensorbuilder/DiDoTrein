@@ -8,7 +8,7 @@ body {
 .hero{
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(rgba(20, 36, 109, 0.438),rgba(0,0,0,6)),url(background.jpg);
+    background-image: linear-gradient(rgba(94, 122, 245, 0.438),rgba(0,0,0,6)),url(background.jpg);
     opacity: 0.5;
 }
 
