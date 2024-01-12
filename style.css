@@ -3,7 +3,7 @@ body {
 }
 .container {
     display: flex;
-    border: solid black;
+    
 }
 
 .hero{
@@ -20,6 +20,7 @@ nav{
     padding-top: 40px;
     padding-left: 10%;
     padding-right: 10%;
+    border: solid black;
 }
 .logo {
     color: black;
