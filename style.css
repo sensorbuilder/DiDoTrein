@@ -9,8 +9,8 @@ body {
 .hero{
     height: 100vh;
     width: 100%;
-    background: rgb(16,2,246);
-background: linear-gradient(90deg, rgba(16,2,246,1) 10%, rgba(72,170,255,0.09147408963585435) 59%, rgba(244,245,245,1) 100%);
+    background: rgb(2,83,246);
+    background: linear-gradient(90deg, rgba(2,83,246,0.3435749299719888) 33%, rgba(72,170,255,0.09147408963585435) 59%, rgba(244,245,245,0.09427521008403361) 100%);
 }
 
 nav{
