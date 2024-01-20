@@ -7,9 +7,8 @@
     font-family: "Roboto", Arial, sans-serif;
 }
 
-
-body {
-    border: 1px solid green;
+section{
+    height: vh100%;
 }
 
 
