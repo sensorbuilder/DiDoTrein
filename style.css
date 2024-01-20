@@ -8,7 +8,11 @@
 }
 
 section{
-    height: vh100%;
+    height: vh100;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    
 }
 
 
