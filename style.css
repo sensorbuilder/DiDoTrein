@@ -16,9 +16,20 @@ section {
 }
 
 .one {
-    background-color: rgb(36,164,138);
+    background-color: #5585b5;
 }
-
+.two {
+    background-color: #53a8b6;
+}
+.three {
+    background-color: #5585b5;
+}
+.four {
+    background-color: #53a8b6;
+}
+.five {
+    background-color: #5585b5;
+}
 
 .container {
     display: flex;
