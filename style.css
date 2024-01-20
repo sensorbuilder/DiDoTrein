@@ -7,10 +7,10 @@
     font-family: "Roboto", Arial, sans-serif;
 }
 
-section{
-    height: vh100;
+section {
+    height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: top;
     align-items: center;
     
 }
