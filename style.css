@@ -10,7 +10,7 @@
 section{
     height: vh100;
     display: flex;
-    justify-content: top;
+    justify-content: center;
     align-items: center;
     
 }
