@@ -28,6 +28,7 @@ h1{
 }
 .one {
     background-color: #5585b5;
+    display: none;
     border: 1px dashed red;
 }
 .two {
