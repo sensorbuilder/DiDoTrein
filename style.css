@@ -54,7 +54,7 @@ th {
 }
 
 td {
-    border: 1px solid red;
+    border: 1px dashed peru;
     text-align: left;
 }
 
