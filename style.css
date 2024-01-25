@@ -57,3 +57,7 @@ td {
     border: 1px solid red;
     text-align: left;
 }
+
+pre {
+    font-family:'Courier New', Courier, monospace;
+}
