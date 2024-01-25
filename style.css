@@ -50,8 +50,9 @@ table {
 
 th {
     font-weight: bold;
+    border: 2px solid red;
 }
 
-td{
+td {
     border: 1px solid red;
 }
