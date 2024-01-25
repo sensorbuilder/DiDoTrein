@@ -60,10 +60,8 @@ th {
     font-size:25px;
 }
 
-a {
-    src: url(background.jpg);
-    background-image: url(background.jpg);
-}
+
+
 
 td {
     border: 1px dashed peru;
