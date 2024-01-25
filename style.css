@@ -21,7 +21,7 @@ section {
     align-items: center;
     scroll-snap-align: start;
     opacity: 50%;
-    background-image: url(background.jpg);
+    background-image: url(background.png);
     background-repeat: no-repeat;
 }
 
