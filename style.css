@@ -20,9 +20,9 @@ section {
     justify-content: center;
     align-items: center;
     scroll-snap-align: start;
-    opacity: 50%;
     background-image: url(background.png);
     background-repeat: no-repeat;
+    background-size: 15%;
 }
 
 h1{
@@ -50,12 +50,13 @@ h1{
 
 table {
     width: 80%;
-    
+    padding-left: 40px;
     
 }
 
 th {
     font-weight: bold;
+    color: antiquewhite;
     font-size:25px;
 }
 
