@@ -16,7 +16,9 @@ section {
     align-items: center;
     
 }
-
+h1{
+    color: white;
+}
 .one {
     background-color: #5585b5;
 }
