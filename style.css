@@ -11,16 +11,17 @@
 .container {
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
+    height: 100vh;
+
 }
 
 section {
-    height: 50vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     scroll-snap-type: start;
-    
 }
 
 h1{
