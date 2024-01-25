@@ -43,3 +43,11 @@ h1{
 .five {
     background-color: #5585b5;
 }
+
+table {
+    width: 75vh;
+}
+
+th {
+    font-weight: bold;
+}
