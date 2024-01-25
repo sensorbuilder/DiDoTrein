@@ -47,18 +47,17 @@ h1{
 
 table {
     width: 80%;
+    font-size:25px;
 }
 
 th {
     font-weight: bold;
     border: 2px solid red;
-    font-size: 25px;
 }
 
 td {
     border: 1px dashed peru;
     text-align: left;
-    font-size: 30px;
 }
 
 pre {
