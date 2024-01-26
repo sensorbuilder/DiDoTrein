@@ -16,8 +16,9 @@
 
 section {
     height: 100vh;
-    padding-top: 10px;
+    padding-top: 40px;
     display: flex;
+    flex-direction: column;
     justify-content: start;
     align-items: center;
     scroll-snap-align: start;
@@ -28,24 +29,24 @@ section {
 
 img.strava {
     border-radius: 50%;
+    border: 1px dashed grey;
     width: 40%;
+    image-align: center;
 }
 h1{
-    color: white;
+    color: rgb(252, 76, 2);
     text-shadow: 1px 1px 4px black;  
     padding: 10px; 
 }
 
 h2{
-    color: rgb(52, 2, 231);
+    color: rgb(189, 173, 247);
     font-size: 30px;
     text-shadow: 1px 1px 4px black;  
     padding: 5px; 
 }
 .one {
     background-color: #5585b5;
-    flex-direction: column;
-    border: 1px dashed red;
 }
 .two {
     background-color: #53a8b6;
@@ -62,6 +63,7 @@ h2{
 
 table {
     width: 70%;
+    border-collapse: collapse;
     
 }
 
@@ -75,27 +77,28 @@ th {
 
 
 td {
-    border: 1px dashed peru;
+   
     text-align: center;
     font-size:25px;
 }
 
 pre {
     font-family:'Courier New', Courier, monospace;
-    font-size: small;
+    font-size: 20px;
     font-weight: bold;
-    color: greenyellow;
+    color: whitesmoke;
     text-indent: 20px;
 }
 
 table tr:nth-child(even) {
     background-color: #53a8b6;
+    border-radius: 25%;
 }
 
-regels1 {
+td.regels1 {
     align-items: left;
 }
-regels2 {
+td.regels2 {
     align-items: right;
 }
 li {
