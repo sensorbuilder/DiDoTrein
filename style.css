@@ -16,8 +16,9 @@
 
 section {
     height: 100vh;
+    padding-top: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     scroll-snap-align: start;
     background-image: url(background.png);
