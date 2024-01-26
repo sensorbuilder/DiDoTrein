@@ -29,9 +29,7 @@ section {
 
 img.strava {
     border-radius: 50%;
-    border: 1px dashed grey;
     width: 40%;
-    image-align: center;
 }
 h1{
     color: rgb(252, 76, 2);
@@ -61,10 +59,15 @@ h2{
     background-color: #5585b5;
 }
 
-table {
+table.kalender {
     width: 70%;
     border-collapse: collapse;
     
+}
+
+table {
+    width: 80%;
+    padding: 10px 70px;
 }
 
 th {
@@ -76,13 +79,13 @@ th {
 
 
 
-td {
+table.kalender tr td{
    
     text-align: center;
     font-size:25px;
 }
 
-pre {
+pre, pre a {
     font-family:'Courier New', Courier, monospace;
     font-size: 20px;
     font-weight: bold;
@@ -102,6 +105,6 @@ td.regels2 {
     align-items: right;
 }
 li {
-    font-size: 25px;
+    font-size: 30px;
     list-style-type: "\1f6b4";
 }
