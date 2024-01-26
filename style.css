@@ -15,7 +15,7 @@
 }
 
 section {
-    height: 100vh;
+    height: 99vh;
     padding-top: 40px;
     display: flex;
     flex-direction: column;
@@ -44,7 +44,7 @@ h2{
     padding: 5px; 
 }
 .one {
-    background-color: #5585b5;
+    background-color: #5585b59d;
 }
 .two {
     background-color: #53a8b6;
@@ -87,14 +87,18 @@ table.kalender tr td{
 
 pre, pre a {
     font-family:'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
-    color: whitesmoke;
+    color: blue;
     text-indent: 20px;
 }
 
 table tr:nth-child(even) {
     background-color: #53a8b6;
+    border-radius: 25%;
+}
+table tr:nth-child(odd) {
+    background-color: #275e67;
     border-radius: 25%;
 }
 
