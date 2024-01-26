@@ -26,7 +26,10 @@ section {
     background-size: 25%;
 }
 
-
+img.strava {
+    border-radius: 50%;
+    width: 40%;
+}
 h1{
     color: white;
     text-shadow: 1px 1px 4px black;  
@@ -34,7 +37,7 @@ h1{
 }
 
 h2{
-    color: rgba(84, 39, 248, 0.76);
+    color: rgb(52, 2, 231);
     font-size: 30px;
     text-shadow: 1px 1px 4px black;  
     padding: 5px; 
@@ -73,7 +76,7 @@ th {
 
 td {
     border: 1px dashed peru;
-    text-align: left;
+    text-align: center;
     font-size:25px;
 }
 
